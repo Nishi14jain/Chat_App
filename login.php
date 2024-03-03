@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=\, initial-scale=1.0">
-    <title>Login </title>
+    <title>Login form  </title>
 </head>
  <link rel="stylesheet" href="style.css">
 <body>
